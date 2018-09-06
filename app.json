@@ -1,7 +1,7 @@
 {
   "id": "c0ee6a6d-7e64-4c0d-906a-c24df5a6275a",
   "name": "ALProject1",
-  "publisher": "Default publisher",
+  "publisher": "D.E.Veloper",
   "brief": "",
   "description": "",
   "version": "1.0.0.0",
@@ -14,10 +14,12 @@
   "capabilities": [],
   "dependencies": [],
   "screenshots": [],
+  "features": "TranslationFile",
+  "showMyCode": true,
   "platform": "11.0.0.0",
   "application": "11.0.0.0",
   "idRange": {
-    "from": 50100,
-    "to": 50149
+    "from": 123456700,
+    "to": 123456799
   }
 }
